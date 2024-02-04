@@ -1,0 +1,3 @@
+server/.venv
+server/*.sqlite3
+server/**/__pycache__
